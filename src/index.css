@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+body{
+    margin: 0;
+    font-family: 'Bree Serif', serif;
+}
+
+h1, h2, h3{
+    margin: 0;
+    padding: 0;
+}
+
+.mediumFont{
+    font-size: 30px;
+}
+
+.largeFont{
+    font-size: 70px;
+}
+
+input {
+    border-radius: 20px;
+    border: none;
+    padding: 20px;
+    font-size: large;
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+button {
+    border-radius: 20px;
+    border: none;
+    padding: 20px;
+    font-size: large;
+    background-color: whitesmoke;
+}
+
+button:active{
+    background-color: gray;
+}

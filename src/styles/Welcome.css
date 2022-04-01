@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.title-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-color: whitesmoke;
+    height: 250px;
+    width: 250px;
+}
+
+.title{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
